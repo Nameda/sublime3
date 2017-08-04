@@ -1,0 +1,5 @@
+"sublimelinter": "save-only"
+"sublimelinter_executable_map":
+{
+    "javascript":"D:/Sublime3/node.exe",
+    "css":"D:/Sublime3/node.exe"

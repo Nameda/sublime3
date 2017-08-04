@@ -1,0 +1,1342 @@
+{
+	"folder_history":
+	[
+		"/D/vue",
+		"/D/zhixian/web/admin",
+		"/D/zhixian/web/project",
+		"/C/Users/qianfeng/Desktop/JS/Day10",
+		"/C/Users/qianfeng/Desktop/携程网",
+		"/C/Users/qianfeng/Desktop/携程网 - 副本"
+	],
+	"last_version": 3114,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 450.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sta",
+						"state"
+					],
+					[
+						"po",
+						"pointer"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"bor-r",
+						"border-right"
+					],
+					[
+						"borr",
+						"border-right"
+					],
+					[
+						"flr",
+						"fl-r	float: right;"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"cl",
+						"class"
+					],
+					[
+						"n",
+						"none"
+					],
+					[
+						"flo",
+						"float"
+					],
+					[
+						"bg",
+						"bg+	background: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"clr",
+						"color"
+					],
+					[
+						"b",
+						"background"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"au",
+						"absolute"
+					],
+					[
+						"r",
+						"relative"
+					],
+					[
+						"lf",
+						"left"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"top",
+						"top5"
+					],
+					[
+						"u",
+						"ul	Tag"
+					],
+					[
+						"image",
+						"images"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"f",
+						"font"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 260.0,
+				"last_filter": "vue",
+				"selected_items":
+				[
+					[
+						"vue",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"install package",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"insta",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"Package Control: en",
+						"Package Control: Enable Package→启用插件"
+					],
+					[
+						"in",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"i",
+						"Package Control: Install Package→安装插件"
+					]
+				],
+				"width": 594.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+					"Sublime CodeIntel",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"1	import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/zhixian/web/project/src/router/index.js",
+				"/C/Users/qianfeng/Desktop/summarise.html",
+				"/C/Users/qianfeng/Desktop/JS/Day10/index.html",
+				"/C/Users/qianfeng/Desktop/JS/Day10/test.html",
+				"/C/Users/qianfeng/Desktop/JS/Day10/children.html",
+				"/H/Myshare/My share.html",
+				"/C/Users/qianfeng/Desktop/1.html",
+				"/C/Users/qianfeng/Desktop/正则.html",
+				"/C/Users/qianfeng/Desktop/JS/正则自学.html",
+				"/C/Users/qianfeng/Desktop/作业7-09-ok/携程网2/index.html",
+				"/C/Users/qianfeng/Desktop/JS/班级计算成绩.html",
+				"/C/Users/qianfeng/Desktop/My share/index.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学3/html/weixin.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/携程网2/index.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学3/css/weixin.css",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学3/css/net.css",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学3/html/net.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学3/index.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学3/css/index.css",
+				"/C/Users/qianfeng/Desktop/作业7-09/雪奥4/index.html",
+				"/C/Users/qianfeng/Desktop/携程网/index.html",
+				"/C/Users/qianfeng/Desktop/携程网/html/bustickets.html",
+				"/C/Users/qianfeng/Desktop/携程网/css/bustickets.css",
+				"/C/Users/qianfeng/Desktop/携程网/css/index.css",
+				"/C/Users/qianfeng/Desktop/携程网 - 副本/css/bustickets.css",
+				"/C/Users/qianfeng/Desktop/携程网 - 副本/html/bustickets.html",
+				"/C/Users/qianfeng/Desktop/携程网 - 副本/css/base.css",
+				"/C/Users/qianfeng/Desktop/携程网 - 副本/index.html",
+				"/C/Users/qianfeng/Desktop/携程网 - 副本/css/index.css",
+				"/C/Users/qianfeng/Desktop/携程网/css/base.css",
+				"/C/Users/qianfeng/Desktop/携程网/html/bustickets",
+				"/D/软件/Sublime3/Data/Packages/User/Side Bar.sublime-settings",
+				"/D/软件/Sublime3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学/css/weixin.css",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学/html/weixin.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学/css/base.css",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学/html/net.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学/html/base.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/雪奥4/html/branding.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/雪奥4/css/branding.css",
+				"/C/Users/qianfeng/Desktop/作业7-09/雪奥4/index.jpg",
+				"/C/Users/qianfeng/Desktop/作业7-09/雪奥4/css/base.css",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学/css/net.css",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学/html/4-互联网学院   腾讯大学.png",
+				"/C/Users/qianfeng/Desktop/雪奥/html/contact.html",
+				"/C/Users/qianfeng/Desktop/雪奥/html/branding.html",
+				"/C/Users/qianfeng/Desktop/雪奥/index.html",
+				"/C/Users/qianfeng/Desktop/雪奥/html/infomation.html",
+				"/C/Users/qianfeng/Desktop/雪奥/css/contact.css",
+				"/C/Users/qianfeng/Desktop/雪奥/css/infomation.css",
+				"/C/Users/qianfeng/Desktop/雪奥/css/base.css",
+				"/C/Users/qianfeng/Desktop/雪奥/css/index.css",
+				"/C/Users/qianfeng/Desktop/雪奥/css/branding.css",
+				"/C/Users/qianfeng/Desktop/雪奥/base.html",
+				"/C/Users/qianfeng/Desktop/12",
+				"/C/Users/qianfeng/Desktop/50年工资.html",
+				"/C/Users/qianfeng/Desktop/Day1/H5-plus+plus.html",
+				"/C/Users/qianfeng/Desktop/Day1/kanghong.html",
+				"/C/Users/qianfeng/Desktop/111",
+				"/C/Users/qianfeng/Desktop/JS/HTML.html",
+				"/C/Users/qianfeng/Desktop/随堂练习/佳缘.html",
+				"/C/Users/qianfeng/Desktop/随堂练习/H5-作业/pku.edu6-14-night/北京大学.htm",
+				"/C/Users/qianfeng/Desktop/雪奥/css/index",
+				"/D/软件/Sublime3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/软件/Sublime3/Data/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/C/Users/qianfeng/Desktop/腾讯大学/css/net.css",
+				"/C/Users/qianfeng/Desktop/腾讯大学/html/net.html",
+				"/C/Users/Administrator/Desktop/端午作业/jdcom - 副本/index.html",
+				"/D/Sublime3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/D/Sublime3/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/D/Sublime3/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/D/Sublime Text 3x64/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/D/Sublime Text 3x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Sublime Text 3x64/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/Desktop/jdcom/index.html",
+				"/D/Sublime Text 3x64/Data/Packages/Emmet/Emmet.sublime-settings"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"status",
+					"        status:'',",
+					";\"",
+					"Ctrl",
+					"   	';",
+					"bottom",
+					"b",
+					"				<",
+					"3983e6",
+					"30px",
+					"center",
+					"images",
+					"img",
+					"128",
+					"alls",
+					";}",
+					"-->\n",
+					"seprat",
+					"sepra",
+					"red",
+					"subnav",
+					"	 	\n",
+					"css",
+					";}",
+					"09",
+					">",
+					";}\n",
+					"}\n",
+					"background",
+					"padding",
+					"width"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\qianfeng\\Desktop\\腾讯大学\\css\\net.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 278.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1374.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"st",
+						"store"
+					],
+					[
+						"sta",
+						"state"
+					],
+					[
+						"po",
+						"pointer"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"bor-r",
+						"border-right"
+					],
+					[
+						"borr",
+						"border-right"
+					],
+					[
+						"flr",
+						"fl-r	float: right;"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"cl",
+						"class"
+					],
+					[
+						"n",
+						"none"
+					],
+					[
+						"flo",
+						"float"
+					],
+					[
+						"bg",
+						"bg+	background: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"clr",
+						"color"
+					],
+					[
+						"b",
+						"background"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"au",
+						"absolute"
+					],
+					[
+						"r",
+						"relative"
+					],
+					[
+						"lf",
+						"left"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"top",
+						"top5"
+					],
+					[
+						"u",
+						"ul	Tag"
+					],
+					[
+						"image",
+						"images"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"f",
+						"font"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/vue/src/App.vue",
+					"settings":
+					{
+						"buffer_size": 135,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/vue/src/utils/index.js",
+					"settings":
+					{
+						"buffer_size": 121,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/vue/src/pages/index.vue",
+					"settings":
+					{
+						"buffer_size": 825,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/vue/src/router/index.js",
+					"settings":
+					{
+						"buffer_size": 1008,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/vue/src/store/mutation-types.js",
+					"settings":
+					{
+						"buffer_size": 107,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/vue/src/store/mutations.js",
+					"settings":
+					{
+						"buffer_size": 168,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/vue/src/store/action.js",
+					"settings":
+					{
+						"buffer_size": 190,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/vue/src/store/index.js",
+					"settings":
+					{
+						"buffer_size": 384,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/vue/src/main.js",
+					"settings":
+					{
+						"buffer_size": 395,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/vue/build/utils.js",
+					"settings":
+					{
+						"buffer_size": 1949,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/vue/build/webpack.base.conf.js",
+					"settings":
+					{
+						"buffer_size": 1723,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/vue/build/webpack.prod.conf.js",
+					"settings":
+					{
+						"buffer_size": 3742,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 260.0,
+				"last_filter": "vue",
+				"selected_items":
+				[
+					[
+						"vue",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"install package",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"insta",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"Package Control: en",
+						"Package Control: Enable Package→启用插件"
+					],
+					[
+						"in",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"i",
+						"Package Control: Install Package→安装插件"
+					]
+				],
+				"width": 594.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+					"Sublime CodeIntel",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"1	import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/vue",
+				"/D/vue/build",
+				"/D/vue/src",
+				"/D/vue/src/api",
+				"/D/vue/src/components",
+				"/D/vue/src/pages",
+				"/D/vue/src/router",
+				"/D/vue/src/service",
+				"/D/vue/src/store",
+				"/D/vue/src/utils"
+			],
+			"file_history":
+			[
+				"/D/vue/build/dev-server.js",
+				"/D/vue/build/dev-client.js",
+				"/D/vue/config/prod.env.js",
+				"/D/vue/config/dev.env.js",
+				"/D/vue/package.json",
+				"/D/vue/index.html",
+				"/D/vue/.project",
+				"/D/vue/.gitignore",
+				"/D/vue/.babelrc",
+				"/D/vue/src/store/mutations.js",
+				"/D/vue/src/store/mutation-types.js",
+				"/D/vue/src/store/index.js",
+				"/D/vue/src/store/getters.js",
+				"/D/vue/src/store/action.js",
+				"/D/vue/README.md",
+				"/D/vue/config/index.js",
+				"/D/zhixian/web/project/src/router/index.js",
+				"/C/Users/qianfeng/Desktop/summarise.html",
+				"/C/Users/qianfeng/Desktop/JS/Day10/index.html",
+				"/C/Users/qianfeng/Desktop/JS/Day10/test.html",
+				"/C/Users/qianfeng/Desktop/JS/Day10/children.html",
+				"/H/Myshare/My share.html",
+				"/C/Users/qianfeng/Desktop/1.html",
+				"/C/Users/qianfeng/Desktop/正则.html",
+				"/C/Users/qianfeng/Desktop/JS/正则自学.html",
+				"/C/Users/qianfeng/Desktop/作业7-09-ok/携程网2/index.html",
+				"/C/Users/qianfeng/Desktop/JS/班级计算成绩.html",
+				"/C/Users/qianfeng/Desktop/My share/index.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学3/html/weixin.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/携程网2/index.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学3/css/weixin.css",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学3/css/net.css",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学3/html/net.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学3/index.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学3/css/index.css",
+				"/C/Users/qianfeng/Desktop/作业7-09/雪奥4/index.html",
+				"/C/Users/qianfeng/Desktop/携程网/index.html",
+				"/C/Users/qianfeng/Desktop/携程网/html/bustickets.html",
+				"/C/Users/qianfeng/Desktop/携程网/css/bustickets.css",
+				"/C/Users/qianfeng/Desktop/携程网/css/index.css",
+				"/C/Users/qianfeng/Desktop/携程网 - 副本/css/bustickets.css",
+				"/C/Users/qianfeng/Desktop/携程网 - 副本/html/bustickets.html",
+				"/C/Users/qianfeng/Desktop/携程网 - 副本/css/base.css",
+				"/C/Users/qianfeng/Desktop/携程网 - 副本/index.html",
+				"/C/Users/qianfeng/Desktop/携程网 - 副本/css/index.css",
+				"/C/Users/qianfeng/Desktop/携程网/css/base.css",
+				"/C/Users/qianfeng/Desktop/携程网/html/bustickets",
+				"/D/软件/Sublime3/Data/Packages/User/Side Bar.sublime-settings",
+				"/D/软件/Sublime3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学/css/weixin.css",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学/html/weixin.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学/css/base.css",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学/html/net.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学/html/base.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/雪奥4/html/branding.html",
+				"/C/Users/qianfeng/Desktop/作业7-09/雪奥4/css/branding.css",
+				"/C/Users/qianfeng/Desktop/作业7-09/雪奥4/index.jpg",
+				"/C/Users/qianfeng/Desktop/作业7-09/雪奥4/css/base.css",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学/css/net.css",
+				"/C/Users/qianfeng/Desktop/作业7-09/腾讯大学/html/4-互联网学院   腾讯大学.png",
+				"/C/Users/qianfeng/Desktop/雪奥/html/contact.html",
+				"/C/Users/qianfeng/Desktop/雪奥/html/branding.html",
+				"/C/Users/qianfeng/Desktop/雪奥/index.html",
+				"/C/Users/qianfeng/Desktop/雪奥/html/infomation.html",
+				"/C/Users/qianfeng/Desktop/雪奥/css/contact.css",
+				"/C/Users/qianfeng/Desktop/雪奥/css/infomation.css",
+				"/C/Users/qianfeng/Desktop/雪奥/css/base.css",
+				"/C/Users/qianfeng/Desktop/雪奥/css/index.css",
+				"/C/Users/qianfeng/Desktop/雪奥/css/branding.css",
+				"/C/Users/qianfeng/Desktop/雪奥/base.html",
+				"/C/Users/qianfeng/Desktop/12",
+				"/C/Users/qianfeng/Desktop/50年工资.html",
+				"/C/Users/qianfeng/Desktop/Day1/H5-plus+plus.html",
+				"/C/Users/qianfeng/Desktop/Day1/kanghong.html",
+				"/C/Users/qianfeng/Desktop/111",
+				"/C/Users/qianfeng/Desktop/JS/HTML.html",
+				"/C/Users/qianfeng/Desktop/随堂练习/佳缘.html",
+				"/C/Users/qianfeng/Desktop/随堂练习/H5-作业/pku.edu6-14-night/北京大学.htm",
+				"/C/Users/qianfeng/Desktop/雪奥/css/index",
+				"/D/软件/Sublime3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/软件/Sublime3/Data/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/C/Users/qianfeng/Desktop/腾讯大学/css/net.css",
+				"/C/Users/qianfeng/Desktop/腾讯大学/html/net.html",
+				"/C/Users/Administrator/Desktop/端午作业/jdcom - 副本/index.html",
+				"/D/Sublime3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/D/Sublime3/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/D/Sublime3/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/D/Sublime Text 3x64/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/D/Sublime Text 3x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Sublime Text 3x64/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/Desktop/jdcom/index.html",
+				"/D/Sublime Text 3x64/Data/Packages/Emmet/Emmet.sublime-settings"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"port",
+					"status",
+					"        status:'',",
+					";\"",
+					"Ctrl",
+					"   	';",
+					"bottom",
+					"b",
+					"				<",
+					"3983e6",
+					"30px",
+					"center",
+					"images",
+					"img",
+					"128",
+					"alls",
+					";}",
+					"-->\n",
+					"seprat",
+					"sepra",
+					"red",
+					"subnav",
+					"	 	\n",
+					"css",
+					";}",
+					"09",
+					">",
+					";}\n",
+					"}\n",
+					"background",
+					"padding",
+					"width"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\vue"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/vue/src/App.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 135,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										135,
+										135
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/ColorPicker/vue.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/vue/src/utils/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 121,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/vue/src/pages/index.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 825,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										622,
+										622
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/ColorPicker/vue.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/vue/src/router/index.js",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 1008,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										754,
+										759
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/vue/src/store/mutation-types.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 107,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/vue/src/store/mutations.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 168,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/vue/src/store/action.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 190,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										190,
+										190
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/D/vue/src/store/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 384,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										366,
+										366
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/D/vue/src/main.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 395,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										395,
+										395
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/D/vue/build/utils.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1949,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1414,
+										1414
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 270.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/D/vue/build/webpack.base.conf.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1723,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										810,
+										810
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 432.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/D/vue/build/webpack.prod.conf.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3742,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										579,
+										579
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,733,225,225,1615",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\qianfeng\\Desktop\\腾讯大学\\css\\net.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 278.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 4,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

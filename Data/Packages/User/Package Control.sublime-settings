@@ -1,0 +1,33 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Clipboard History",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Default",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"IMESupport",
+		"jQuery",
+		"JsFormat",
+		"JsMinifier",
+		"Markdown Preview",
+		"Nil-Theme",
+		"Package Control",
+		"PyV8",
+		"SublimeCodeIntel",
+		"Tag",
+		"Theme - Soda",
+		"ZenCoding",
+		"ZZZ"
+	]
+}
